@@ -11,7 +11,7 @@
           </div>
         </div>
 
-        <!------------------------Image and Description------------------------------------------------------------------->
+        <!--------------------------Image and Description------------------------------------------------------------------->
         <div class="row">
           <div class="col-md-4">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
